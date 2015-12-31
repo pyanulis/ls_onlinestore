@@ -1,0 +1,6 @@
+@import "compass";
+
+.wrapper {
+  border: 1px solid red;
+  @include border-radius(7px);
+}

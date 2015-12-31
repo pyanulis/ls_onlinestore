@@ -2,6 +2,10 @@
   "name": "Online Store",
   "dependencies": {
     "jquery": "2.1.4",
+    "normalize-css": "normalize.css#~3.0.3",
+    "modernizr": "2.8.3"
+  },
+  "devDependencies": {
     "normalize-css": "normalize.css#~3.0.3"
   }
 }

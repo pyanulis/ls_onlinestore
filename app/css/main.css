@@ -1,0 +1,6 @@
+.wrapper {
+  border: 1px solid red;
+  -moz-border-radius: 7px;
+  -webkit-border-radius: 7px;
+  border-radius: 7px;
+}
